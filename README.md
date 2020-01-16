@@ -1,1 +1,1 @@
-# ship-your-enemies-lgpd
+# Ship Your Enemies LGPD
