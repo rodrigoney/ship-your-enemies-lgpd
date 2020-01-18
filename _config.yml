@@ -1,0 +1,7 @@
+title: Ship Your Enemies LGPD
+baseurl: "" # the subpath of your site
+url: "https://shipyourenemieslgpd.com.br" # the base hostname & protocol for your site
+
+exclude:
+  - CNAME
+  - README.md
